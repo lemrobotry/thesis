@@ -1,0 +1,5 @@
+a simple sentence .
+DET ADJ NN $.
+2 3 4 0
+FAKE DEP LABELS ROOT
+2 0 3 1

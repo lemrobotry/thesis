@@ -1,0 +1,6 @@
+a simple sentence .
+DET ADJ NN $.
+2 0 3 1
+a second simple sentence .
+DET ADJ ADJ NN $.
+2 0 4 1 3
